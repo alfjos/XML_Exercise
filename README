@@ -5,6 +5,8 @@ Name: XML Practice
 Status: Developing
 ***********************************************************************
 
+Description:
+
 This is an exercise to read a XML file and showing the content in a DataGridView.
 
 The application is developed in Visual Studio 2010 using the framework 2.0.
@@ -12,3 +14,14 @@ The application is developed in Visual Studio 2010 using the framework 2.0.
 This is a practice example with the objetive to learn how to manipulate XML content.
 
 In the first release the application ask for a XML file and show the content on the screen.
+
+***********************************************************************
+
+Normal Flow
+
+1. The actor press a button to select a XML File.
+2. The system shows a dialog box asking to the actor for the XML File.
+3. The actor indicates the path to the file.
+4. The system shows to the actor all the nodes in the XML text that contains data.
+5. The actor selects the tag that he/she wants to view in the screen.
+6. The system shows all data contained in the selected tag.
