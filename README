@@ -1,0 +1,14 @@
+***********************************************************************
+Author: Alfredo José Ortiz
+Date: Jul 29 2012
+Name: XML Practice
+Status: Developing
+***********************************************************************
+
+This is an exercise to read a XML file and showing the content in a DataGridView.
+
+The application is developed in Visual Studio 2010 using the framework 2.0.
+
+This is a practice example with the objetive to learn how to manipulate XML content.
+
+In the first release the application ask for a XML file and show the content on the screen.
